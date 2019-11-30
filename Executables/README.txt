@@ -1,0 +1,1 @@
+Created these executables with pyinstaller. Basically, these programs contain all the dependencies already and python is not required to run on your computer.
